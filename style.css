@@ -1,52 +1,54 @@
-/* CSS Document */
-@media screen and (max-width: 481px){
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initia-scale=1"/>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title> IMAGINE </title>
+  </head>
+  <body>
+  <script type="text/javascript" src="script.js"></script>
+  <center>
+        <div id="#WELCOME" style="background-color:#4682b4;">
+           <br>
+           <h1 id="WELCOMEH1"> IMAGINE </h1>
+           
+           <p id="GOAL"> All thinks in one. </p>
+           <br>
+        </div>
+        <div id="#PROJECT" style="background-color:#d3d3d3;">
+        </center>
+        <br>
+             <h2 id="PROJECTH2">     OUR PROJECTS </h2> 
+             <ul>
+                 <li> <a onclick="showSmartLockInf()" title="STILL DEVOLOPING">    SMARTLOCK </a> </li>
+                 <li> <a onclick="showImagineInf()" title="STILL DEVOLOPING" id="TEXTBTN">    iMagine </a> </li>
+             </ul>
+             <br>
+        </div>
+        <br>
+        <br>
+        <div id="SMARTLOCKINF" style="background-color:#d3dff3">
+        <center>
+                     <br>
+                     <h2 id="ABOUT" > About SmartLock</h2>
+                     <br>
+        </center>
+        </div>
+        <div> {
+        box-shadow: 10px 10px;
+        }
 
-	#WELCOMEH1 {
-		font-size: 12px;
-		font-family: verdane;
-        color: white;
-        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-	}
-    #GOAL {
-        font-size: 5px;
-        font-family: verdana;
-    }
-    #PROJECTH2 {
-        font-size: 5px;
-        font-family: verdane;
-    }
-    #ABOUT {
-        font-size: 5px;
-        font-family: verdane;
-    }
-    #TEXTBTN {
-        font-size: 12.5px;
-        font-family: verdana;
-        color: black;
-    }
-
-}
-#WELCOMEH1 {
-    font-size: 25px;
-    font-family: verdana;
-    color: white;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-}
-#GOAL {
-    font-size: 15px;
-    font-family: verdana; 
-}
-#PROJECTH2 {
-    font-size: 15px;
-    font-family: verdana;
-}
-#ABOUT {
-    font-size: 15px;
-    font-family: verdana;
-}
-#TEXTBTN {
-    font-size: 16px;
-    font-family: verdana;
-    color: black;
-}
-
+        <br>
+        <br>
+        <div id="IMAGINEINF" style="background-color:#d3dff3">
+        <center>
+             <br>
+             <h2 id="ABOUT"> About IMAGINE  </h2>
+             <br>
+        </center>
+        </div>
+        <center>
+  <center>
+  </body>
+</html>
