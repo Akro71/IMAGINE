@@ -28,14 +28,15 @@
 
 }
 #WELCOMEH1 {
-    font-size: 25px;
+    font-size: 30px;
     font-family: verdana;
     color: white;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 #GOAL {
     font-size: 15px;
-    font-family: verdana; 
+    font-family: verdana;
+    color: white; 
 }
 #PROJECTH2 {
     font-size: 15px;
@@ -51,9 +52,8 @@
     color: black;
 }
 #POL4 {
-    font-size: 12.5px;
     font-family: verdana;
-    color: black;
+    color: steelblue;
 }
 #BUTT1 {
     color: white;
@@ -62,4 +62,13 @@
 #BUTT2 {
     color: white;
     background-color: gold;
+}
+#DOWNLOAD123 {
+    font-family: verdana;
+    color: black;
+}
+#COPYRIGHT {
+    font-family: verdana;
+    color: #9B999D;
+    font-size: 7px;
 }
