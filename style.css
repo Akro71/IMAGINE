@@ -60,6 +60,11 @@
     font-family: verdana;
     color: white;
 }
+#POL6 {
+    font-size: 12px;
+    font-family: verdana;
+    color: red;
+}    
 #BUTT1 {
     color: white;
     background-color: steelblue;
