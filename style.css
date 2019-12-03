@@ -34,6 +34,10 @@
     font-family: verdana;
     color: black;
     }
+    #DOWNLOAD1 {
+    font-family: verdana;
+    color: white;
+    }
 }
 #WELCOMEH1 {
     font-size: 30px;
@@ -94,4 +98,8 @@
 #DOWNLOAD3 {
     font-family: verdana;
     color: black;
+}
+#DOWNLOAD1 {
+font-family: verdana;
+color: white;
 }
